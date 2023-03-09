@@ -12,4 +12,3 @@ Sorry i am from middle class family.But Alhamdulillah i am very well:
 - 📫 How to reach me: ...mrtusarrx@gmail.com
 - 😄 know about my  experiences: ...N/A
 - ⚡ Fun fact: ...i am single 😁
--->
