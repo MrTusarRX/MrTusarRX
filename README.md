@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
+
+Sorry i am from middle class family.But Alhamdulillah i am very well:
 
 - 🔭 I’m currently working on ...i am computer scince student
 - 🌱 I’m currently learning ...java
