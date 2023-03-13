@@ -22,7 +22,7 @@ Sorry i am from middle class family.But Alhamdulillah i am very well:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CxQoGvKsJMM4YzVl)
 
 <details markdown='1'><summary>Information/ Recolher</summary>
-- toast("hi MrTusarRX")
+- toast("Hi I am MrTusarRX")
 </details>
 
 [Github](https://github.com/MrTusarRX)
