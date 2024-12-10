@@ -33,7 +33,7 @@
 Sorry i am from middle class family.But Alhamdulillah i am very well:
 
 - 😁I AM MASTER OF HTML COPY
-- 🔭 I’m currently working on: .......i am not working In Any Company But One Day I will be best programmer 
+- 🔭 I’m currently working on: .......i am not working In Any Company But One Day I will be a best programmer 
 - 🌱 I’m currently learning: ...java
 - 👯 I’m looking to collaborate on:N/A
 - 🤔 I’m looking for help with: ...MrDarkRX
