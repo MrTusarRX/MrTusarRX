@@ -30,10 +30,8 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-Sorry i am from middle class family.But Alhamdulillah i am very well:
 
-- 😁I AM MASTER OF HTML COPY
-- 🔭 I’m currently working on: .......i am not working In Any Company But One Day I will be a best programmer 
+- 🔭 I’m currently working on: N/A
 - 🌱 I’m currently learning: ...java
 - 👯 I’m looking to collaborate on:N/A
 - 🤔 I’m looking for help with: ...MrDarkRX
