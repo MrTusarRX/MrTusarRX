@@ -93,7 +93,7 @@
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/MrTusarRX">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=MrTusarRX&repo=YourRepoName&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Latest Project" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=MrTusarRX&repo=LoginJs-style&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Latest Project" />
         </a>
       </p>
     </td>
