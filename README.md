@@ -32,13 +32,13 @@
 
 
 - 🔭 I’m currently working on: N/A
-- 🌱 I’m currently learning: ...java
+- 🌱 I’m currently learning: java
 - 👯 I’m looking to collaborate on:N/A
-- 🤔 I’m looking for help with: ...MrDarkRX
+- 🤔 I’m looking for help with: MrDarkRX
 - 💬 Ask me about:...Life
-- 📫 How to reach me: ...mrtusarrx@gmail.com
+- 📫 How to reach me: mrtusarrx@gmail.com
 - 😄 know about my  experiences:N/A
-- ⚡ Fun fact: ...i am single 😁
+- ⚡ Fun fact: i am single 😁
 ## Specific Information (continued)
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@mrtusarrx1?si=4-zPCZzHe-H4nkq5)
