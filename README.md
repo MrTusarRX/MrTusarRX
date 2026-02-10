@@ -91,7 +91,7 @@
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/MrTusarRX/Apk-signer-pro">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=MrTusarRX&repo=Apk-signer-pro&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Latest Project" />
+          <img align="center" width="470" src="https://github-readme-stats-sigma-gules-89.vercel.app/api/pin/?username=MrTusarRX&repo=Apk-signer-pro&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Latest Project" />
         </a>
       </p>
     </td>
@@ -99,7 +99,7 @@
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/MrTusarRX">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=MrTusarRX&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Contributions" />
+          <img align="center" src="https://github-readme-stats-sigma-gules-89.vercel.app/api?username=MrTusarRX&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Contributions" />
         </a>
       </p>
     </td>
@@ -110,7 +110,7 @@
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrTusarRX&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+    <img src="https://github-readme-stats-sigma-gules-89.vercel.app/graph?username=MrTusarRX&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
 ---
