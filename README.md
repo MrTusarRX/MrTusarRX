@@ -56,7 +56,8 @@
 
 
 
-<!-- Trophies Section -->
+
+
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <a href="https://github.com/MrTusarRX">
@@ -76,8 +77,6 @@
     </picture>
   </a>
 </p>
-<br/>
-
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
