@@ -52,7 +52,7 @@
   <li>Understand web development and backend technologies.</li>
   <li>Keep learning and improving through practice.</li>
 </ul>
-
+<br />
 
 
 
@@ -61,17 +61,25 @@
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 
 <p align="center">
-  <a href="https://github.com/MrTusarRX">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-one-liart.vercel.app/?username=MrTusarRX&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-one-liart.vercel.app/?username=MrTusarRX&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      
-      <!-- Fallback image -->
-      <img alt="GitHub Trophies" src="https://user-images.githubusercontent.com/6661165/113709167-2412f500-971d-11eb-9ee5-0ab292cf8b4c.png">
-    </picture>
-  </a>
+  <a href="https://github.com/MrTusarRX">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-profile-trophy-one-liart.vercel.app/?username=MrTusarRX&theme=monokai&no-frame=true&no-bg=true&row=2&column=6&margin-w=20&margin-h=20"
+      >
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-profile-trophy-one-liart.vercel.app/?username=MrTusarRX&theme=flat&no-frame=true&row=2&column=6&margin-w=20&margin-h=20"
+      >
+      <img
+        src="https://github-profile-trophy-one-liart.vercel.app/?username=MrTusarRX&theme=monokai&no-frame=true&row=2&column=6&margin-w=20&margin-h=20"
+        alt="GitHub Trophies"
+      >
+    </picture>
+  </a>
 </p>
-<br />
+
+
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
