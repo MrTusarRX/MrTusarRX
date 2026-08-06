@@ -72,13 +72,13 @@
         srcset="https://github-profile-trophy-one-liart.vercel.app/?username=MrTusarRX&theme=flat&no-frame=true&row=2&column=6&margin-w=20&margin-h=20"
       >
       <img
-        src="https://github-profile-trophy-one-liart.vercel.app/?username=MrTusarRX&theme=monokai&no-frame=true&row=2&column=6&margin-w=20&margin-h=20"
+        src="https://github-profile-trophy-one-liart.vercel.app/?username=MrTusarRX&theme=dracula"
         alt="GitHub Trophies"
       >
     </picture>
   </a>
 </p>
-
+<br />
 
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
