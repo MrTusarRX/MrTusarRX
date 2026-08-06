@@ -71,7 +71,7 @@
         srcset="https://github-profile-trophy-one-liart.vercel.app/?username=MrTusarRX&theme=flat&no-frame=true&row=2&column=6&margin-w=20&margin-h=20"
       >
       <img
-        src="https://github-profile-trophy-one-liart.vercel.app/?username=MrTusarRX&theme=dracula&row=2&column=6&margin-w=20&margin-h=20"
+        src="https://github-profile-trophy-one-liart.vercel.app/?username=MrTusarRX"
         alt="GitHub Trophies"
       >
     </picture>
