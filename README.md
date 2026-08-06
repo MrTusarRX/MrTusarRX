@@ -52,7 +52,7 @@
   <li>Understand web development and backend technologies.</li>
   <li>Keep learning and improving through practice.</li>
 </ul>
-
+<br/>
 
 
 <!-- Trophies Section -->
@@ -76,7 +76,7 @@
     </picture>
   </a>
 </p>
-
+<br/>
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
