@@ -53,15 +53,18 @@
   <li>Keep learning and improving through practice.</li>
 </ul>
 
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+
 <p align="center">
   <a href="https://github.com/MrTusarRX">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/6661165/113709167-2412f500-971d-11eb-9ee5-0ab292cf8b4c.png">
-      <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/6661165/113709167-2412f500-971d-11eb-9ee5-0ab292cf8b4c.png">
-      <img alt="GitHub Trophies" src="https://user-images.githubusercontent.com/6661165/113709167-2412f500-971d-11eb-9ee5-0ab292cf8b4c.png">
-    </picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-one-liart.vercel.app/?username=MrTusarRX&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-one-liart.vercel.app/?username=MrTusarRX&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      
   </a>
 </p>
+<br />
+
 
 
 
@@ -74,7 +77,7 @@
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/MrTusarRX">
-          <img align="center" src="https://github-readme-stats-sigma-gules-89.vercel.app/api?username=MrTusarRX&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats-one-xi-43.vercel.app/api?username=MrTusarRX&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a>
       </p>
     </td>
@@ -92,7 +95,7 @@
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/MrTusarRX/Apk-signer-pro">
-          <img align="center" width="470" src="https://github-readme-stats-sigma-gules-89.vercel.app/api/pin/?username=MrTusarRX&repo=Apk-signer-pro&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Latest Project" />
+          <img align="center" width="470" src="https://github-readme-stats-one-xi-43.vercel.app/api/pin/?username=MrTusarRX&repo=Apk-signer-pro&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Latest Project" />
         </a>
       </p>
     </td>
@@ -100,7 +103,7 @@
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/MrTusarRX">
-          <img align="center" src="https://github-readme-stats-sigma-gules-89.vercel.app/api?username=MrTusarRX&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Contributions" />
+          <img align="center" src="https://github-readme-stats-one-xi-43.vercel.app/api?username=MrTusarRX&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Contributions" />
         </a>
       </p>
     </td>
@@ -600,11 +603,11 @@
 <img src="./gmail.png" width=50 height=50 alt="khantusar717@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://x.com/your_twitter" target="_blank">
+<a href="https://x.com/mrtusarrx" target="_blank">
 <img src="./twitter.png" width=50 height=50 alt="Twitter" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/your_instagram" target="_blank">
+<a href="https://www.instagram.com/honestly.tusar" target="_blank">
 <img src="./instagram.png" width=50 height=50 alt="Instagram" style="margin-bottom: 5px;" />
 </a>
 
@@ -612,11 +615,11 @@
 <img src="./github.png" width=50 height=50 alt="MrTusarRX" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+<a href="https://www.linkedin.com/in/mrtusar-rx-655b75265/" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="LinkedIn" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://dev.to/your_devto" target="_blank">
+<a href="https://dev.to/mrtusarrx" target="_blank">
 <img src="./dev_to.png" width=50 height=50 alt="Dev.to" style="margin-bottom: 5px;" />
 </a>
 </div>
@@ -624,7 +627,7 @@
 
 <!--Buy me a coffee-->
 <div align="center">
-<a href="https://t.me/mrtusarrx_op_mods" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/150px-Telegram_2019_Logo.svg.png" alt="Buy Me A Coffee" style="height: 120px !important;width: 200px !important;" ></a>
+<a href="https://t.me/mrtusarrx_op_mods" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Telegram" style="height: 120px !important;width: 200px !important;" ></a>
 </div>
 
 <!--Footer--> 
